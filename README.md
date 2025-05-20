@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 **Greetings** my name is **Kardiansyah** just call me ✨ **Kardi** ✨ I am Full Stack Engineer ( Mainly working as web Developer ),
-currently living in Pontianak, West Borneo, Indonesia.
+currently living in Jakarta, Indonesia.
 
 I love to solve any business problem with my Experience in Programming.
 
